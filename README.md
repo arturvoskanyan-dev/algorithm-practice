@@ -12,17 +12,19 @@ This repo contains a variety of algorithmic problems I've solved to sharpen my p
 
 ## 🗂 Folder Structure
 
+```
 algorithm-practice/
 ├── easy/
-│ ├── two-sum.js
-│ ├── is-palindrome.js
-│ └── ...
+│   ├── two-sum.js
+│   ├── is-palindrome.js
+│   └── ...
 ├── medium/
-│ ├── longest-substring.js
-│ └── ...
+│   ├── longest-substring.js
+│   └── ...
 ├── hard/
-│ └── ...
+│   └── ...
 └── README.md
+```
 
 ## 📚 Topics Covered
 
